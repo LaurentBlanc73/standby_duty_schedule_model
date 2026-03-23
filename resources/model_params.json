@@ -1,0 +1,17 @@
+{
+    "calls": {
+        "model_type": "prophet",
+        "yearly_seasonality_prior": 1.0,
+        "weekly_seasonality_prior": 10.0
+    },
+    "perc_sick": {
+        "model_type": "prophet",
+        "yearly_seasonality_prior": 10.0,
+        "weekly_seasonality_prior": 10.0
+    },
+    "calls_n_work": {
+        "model_type": "regression",
+        "slope": 0.19999018984126435,
+        "intercept": 0.4742731055303011
+    }
+}
